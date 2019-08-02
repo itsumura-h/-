@@ -58,7 +58,7 @@ I'm daddy rolling stone  I'm daddy rolling stone
 ```
 ---
 
-ソロ(8小節)
+さとしソロ(8小節)
 ```
 D  C  G  --オカズ-------------  G(Riff)
          Daddy rolling stone, Daddy rolling stone,
