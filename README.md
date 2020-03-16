@@ -12,3 +12,6 @@ Chien £ou and The Ass£arts Blues Ltd.
 - [Smokestack Lightning](./曲/Smokestack_Lightning.md)
 - [Daddy Rolling Stone](./曲/Daddy_Rolling_Stone.md)
 - [You Can't Judge A Book By The Cover](./曲/You_Can't_Judge_A_Book_By_The_Cover.md)
+
+- [Tina Nina Nu](./曲/Tina_Nina_Nu.md)
+- [Sticks and Stones](./曲/Sticks_and_Stones.md)
